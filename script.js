@@ -1,4 +1,4 @@
-const API_KEY = "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"; // 🔑 Replace with your Groq API Key
+const API_KEY = "Your_Api_Key"; // 🔑 Replace with your Groq API Key
 const API_URL = "https://api.groq.com/openai/v1/chat/completions";
 
 const chatMessages = document.getElementById("chat-messages");
